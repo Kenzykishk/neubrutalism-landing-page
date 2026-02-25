@@ -47,7 +47,3 @@ This project is fully responsive and works smoothly across:
 
 
 
-
-
-Design, images, and hints were provided by Route Academy:
-https://tinyurl.com/assignment-4-details
