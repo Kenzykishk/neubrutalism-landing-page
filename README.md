@@ -1,5 +1,4 @@
-# neubrutalism-landing-page
-# Neubrutalism UI – Assignment 4 🎨🖤
+# Neubrutalism-landing-page
 
 A modern landing page designed using the **Neubrutalism UI style** as part of the Front-End Development course at Route Academy.
 This project focuses on applying advanced CSS concepts such as shadows, bold layouts, and strong visual hierarchy.
