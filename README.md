@@ -38,6 +38,12 @@ Neubrutalism is a modern UI trend characterized by:
 - Designed mainly for **desktop view**
 - Focused on visual styling and layout precision
 - Inspired by modern UI design trends
+- 
+- ## 📱 Responsiveness
+This project is fully responsive and works smoothly across:
+- Desktop 💻
+- Tablet 📱
+- Mobile 📱
 
 
 
